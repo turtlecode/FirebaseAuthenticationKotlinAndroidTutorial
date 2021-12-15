@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900756673473",
+    "project_id": "authfirebase-3c365",
+    "storage_bucket": "authfirebase-3c365.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900756673473:android:51f070fb9d26cb5b7c5540",
+        "android_client_info": {
+          "package_name": "com.turtlecode.firebaseauthentication_kotlinandroidtutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900756673473-2dg4lhv45c66dbrlukfbiadmer4o1jfm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL_D0XQKmUXF3Y-z1x1SmrjZMArPwULFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900756673473-2dg4lhv45c66dbrlukfbiadmer4o1jfm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
